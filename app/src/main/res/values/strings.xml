@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KreactiveTest</string>
+    <string name="first_integer">First Integer</string>
+    <string name="second_integer">Second Integer</string>
+    <string name="first_word">First Word</string>
+    <string name="second_word">Second Word</string>
+    <string name="limit">limit</string>
+    <string name="fizz_buzz">FIZZBUZZ!</string>
+    <string name="result">Result</string>
+    <string name="first_field_error">"First Integer is bigger than limit"</string>
+    <string name="second_field_error">"Second Integer is bigger than limit"</string>
+
+
+</resources>
